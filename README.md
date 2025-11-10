@@ -28,17 +28,14 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-
-        
         </div>
-
-        ### 🏅 Certifications
-
-<div>
-  <img src="https://img.shields.io/badge/Linux%20Master%202급-000000?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</div>
     </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Certifications </h2> <br> 
+    <div>
+      <img src="https://img.shields.io/badge/Linux%20Master%202급-000000?style=for-the-badge&logo=linux&logoColor=white">
+    </div>
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href="https://velog.io/@kyr0328/posts" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> </a>
