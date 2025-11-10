@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=70" />
 </div>
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> yurae123's Github </h2>  
-</div>
-
 ---
 
 ### 🛠️ Tech Stacks
@@ -36,9 +32,8 @@
 
 ---
 
-### 📊 Stats
+### 📊 Stats (Dark Mode)
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=yurae123&show_icons=true&title_color=0A84FF&text_color=ffffff&icon_color=0A84FF&bg_color=00000000&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurae123&layout=compact&title_color=0A84FF&text_color=ffffff&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yurae123&show_icons=true&bg_color=0D1117&text_color=c9d1d9&title_color=0A84FF&icon_color=0A84FF&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurae123&layout=compact&bg_color=0D1117&text_color=c9d1d9&title_color=0A84FF&hide_border=true" height="165">
 </div>
-
