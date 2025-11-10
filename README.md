@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Certifications </h2> <br> 
     <div>
       <img src="https://img.shields.io/badge/Linux%20Master%202급-000000?style=for-the-badge&logo=linux&logoColor=white">
-    </div>
+    </div> <br> 
     
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
