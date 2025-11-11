@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 Stats (Dark Mode)
+### 📊 Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=yurae123&show_icons=true&bg_color=0D1117&text_color=c9d1d9&title_color=0A84FF&icon_color=0A84FF&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurae123&layout=compact&bg_color=0D1117&text_color=c9d1d9&title_color=0A84FF&hide_border=true" height="165">
