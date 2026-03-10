@@ -1,16 +1,14 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 - 🎓 **Computer Science Student**
 - ☁️ **Focus:** AWS Cloud & Kubernetes Infrastructure Design
 - 🐧 **Cert:** Linux Master 2nd Grade
 
 ---
 
-### 🚀 Core Technologies
-
-### 🚀 Core Technologies
+###  Core Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="40"/>
@@ -23,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stacks
+###  Tech Stacks
 <table align="center">
   <tr>
     <td align="center" width="120"><b>Cloud</b></td>
@@ -51,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurae123&theme=radical" />
@@ -59,7 +57,7 @@
 
 ---
 
-### 🧑‍💻 Contact Me
+###  Contact Me
 <div align="center">
   <a href="https://velog.io/@kyr0328/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
